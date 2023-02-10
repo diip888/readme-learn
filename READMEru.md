@@ -8,7 +8,7 @@
 
 # Project Title
 
-Проект является цифровым решением в рамках конкурса World AI&DATA Challenge, соответствующиим задаче "<Заголовок задачи>" (https://git.asi.ru/tasks/world-ai-and-data-challenge/<url задачи>)
+Проект является цифровым решением в рамках конкурса World AI&DATA Challenge, соответствующиим задаче  (https://git.asi.ru/tasks/world-ai-and-data-challenge/<url задачи>)
 
 ## Getting Started
 
